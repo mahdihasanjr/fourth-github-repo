@@ -7,6 +7,9 @@ div{
    
 }
 img{
+    width: 300px;
+    height:150px;
      object-fit: cover;
-    object-position: right;
+    object-position:top center;
+    margin-top:50px;
 }
